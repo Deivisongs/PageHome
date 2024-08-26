@@ -1,0 +1,28 @@
+:root{
+    --corClara : rgb(255, 255, 255);
+    --branco : rgb(238, 238, 238);
+    --preto : black;
+    --corTextoEscuro : #202020;
+    --corTextoClaro : #5c5c5c;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+body{
+    background: rgb(230, 230, 230);
+}
+button{
+    background: transparent;
+    border: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
