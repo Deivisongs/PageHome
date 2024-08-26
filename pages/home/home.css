@@ -28,8 +28,8 @@ button{
     text-align: center;
 }
 .headerHome .spanLogo button img{
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
 }
 .headerHome .spanLogo button .spanNotifiNum{
     position: absolute;
